@@ -2,7 +2,6 @@
 
 ### Project Overview
 NeuroYield is a multi-sided ecosystem designed to optimize yield generation through the use of artificial intelligence. Built on the Base Network, it creates a symbiotic relationship between liquidity providers, compute contributors, and governance token holders. Users can deposit assets into AI-managed vaults, contribute GPU power to train models, and participate in the governance of the protocol.
-
 ### Key Features
 
 *   **📈 AI-Managed Yield Vaults:** Users can deposit their assets (like USDC and ETH) into vaults that employ sophisticated, AI-driven strategies to generate yield. Each vault's performance is tied to a specific, verifiable AI model.
@@ -31,7 +30,6 @@ The codebase is organized in a modular fashion to ensure scalability and maintai
 *   `pages/`: Contains the top-level components for each of the application's main routes.
 
 ### Application Pages
-
 The platform is structured into several key pages:
 
 *   **Dashboard (`/`):** The main entry point, providing an overview of the ecosystem and personal stats.

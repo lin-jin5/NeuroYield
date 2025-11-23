@@ -1,4 +1,5 @@
-**NeuroYield**, a decentralized, AI-powered DeFi protocol.
+**NeuroYield**
+
 ### Project Overview
 NeuroYield is a multi-sided ecosystem designed to optimize yield generation through the use of artificial intelligence. Built on the Base Network, it creates a symbiotic relationship between liquidity providers, compute contributors, and governance token holders. Users can deposit assets into AI-managed vaults, contribute GPU power to train models, and participate in the governance of the protocol.
 ### Key Features

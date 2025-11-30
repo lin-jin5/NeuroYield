@@ -26,12 +26,3 @@ The codebase is organized in a modular fashion to ensure scalability and maintai
 *   `hooks/`: For custom React hooks that encapsulate reusable logic.
 *   `lib/`: Includes utility functions used throughout the application.
 *   `pages/`: Contains the top-level components for each of the application's main routes.
-
-### Application Pages
-The platform is structured into several key pages:
-
-*   **Dashboard (`/`):** The main entry point, providing an overview of the ecosystem and personal stats.
-*   **Yield Vaults (`/vaults`):** A list of available AI-managed vaults where users can deposit assets.
-*   **Contribute Compute (`/compute`):** The page where users can find information and tools to contribute their GPU power.
-*   **Stake & Govern (`/stake`):** The interface for staking `$AIBOT` tokens and participating in governance.
-*   **AI Model Registry (`/models`):** A transparent view of all submitted AI models and their performance metrics.
